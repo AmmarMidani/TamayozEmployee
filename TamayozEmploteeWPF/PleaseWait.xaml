@@ -1,0 +1,10 @@
+﻿<Window x:Class="TamayozEmploteeWPF.PleaseWait"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TamayozEmploteeWPF" WindowStyle="None"
+        mc:Ignorable="d" Loaded="Window_Loaded" Opacity="0" AllowsTransparency="True"
+        Title="PleaseWait" Height="325.714" Width="576.429" FlowDirection="RightToLeft">
+    <Grid/>
+</Window>
